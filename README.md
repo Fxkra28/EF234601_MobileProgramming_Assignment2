@@ -24,6 +24,8 @@ EF234601_MobileProgramming_Assignment2/
 ├── android/                    # Android-specific project files and build configurations
 ├── ios/                        # iOS-specific project files and build configurations
 ├── web/                        # Web-specific project files
+├── macOS/                      # macOS configuration project files
+├── Windows/                    # WWindows configuration project files
 ├── test/                       # Directory for unit and widget tests
 ├── pubspec.yaml                # Project metadata and package dependencies
 └── README.md                   # Project documentation
