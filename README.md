@@ -13,7 +13,7 @@ EF234601_MobileProgramming_Assignment2/
 ├── lib/                        # Main source code directory
 │   ├── main.dart               # Entry point of the application; initializes the app and theme
 │   │
-│   ├── model/                  # Data models and database logic
+│   ├── models/                  # Data models and database logic
 │   │   ├── note.dart           # Data model representing the structure of a Note object
 │   │   ├── note.g.dart         # Auto-generated code for the note model
 │   │   └── note_database.dart  # Local database configuration and query methods
